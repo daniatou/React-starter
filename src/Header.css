@@ -1,0 +1,16 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.logo{
+    letter-spacing: 2px;
+    padding: 10px 5px;
+    font-size: 1.2em;
+}
+
+.nav ul li{
+    display: inline;
+    padding: 0px 10px;
+}
